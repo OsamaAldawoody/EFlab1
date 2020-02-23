@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9026579753e74e23b3182b6ab1a06a43" Name="Diagram1" ZoomLevel="87">
+        <EntityTypeShape EntityType="NORTHWNDModel.Customer" Width="1.5" PointX="7.5" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Employee" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Order" Width="1.5" PointX="2.625" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Employees_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Orders_Employees" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Order_Detail" Width="1.5" PointX="5.625" PointY="0.5" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Order_Details_Orders" />
+        <EntityTypeShape EntityType="NORTHWNDModel.Product" Width="1.5" PointX="4.75" PointY="3.75" />
+        <AssociationConnector Association="NORTHWNDModel.FK_Order_Details_Products" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

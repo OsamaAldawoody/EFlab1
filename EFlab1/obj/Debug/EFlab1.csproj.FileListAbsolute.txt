@@ -1,0 +1,14 @@
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EFlab1.exe.config
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EFlab1.exe
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EFlab1.pdb
+D:\VSprojects\EFlab1\EFlab1\obj\Debug\EFlab1.csprojAssemblyReference.cache
+D:\VSprojects\EFlab1\EFlab1\obj\Debug\EFlab1.csproj.CoreCompileInputs.cache
+D:\VSprojects\EFlab1\EFlab1\obj\Debug\EFlab1.exe
+D:\VSprojects\EFlab1\EFlab1\obj\Debug\EFlab1.pdb
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\NORTHWND.MDF
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\NORTHWND_log.ldf
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EntityFramework.dll
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EntityFramework.xml
+D:\VSprojects\EFlab1\EFlab1\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSprojects\EFlab1\EFlab1\obj\Debug\EFlab1.csproj.CopyComplete
